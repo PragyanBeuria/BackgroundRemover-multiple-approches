@@ -3,9 +3,11 @@ The repository dedicates to analyze on different background removal of image bac
 https://www.kaggle.com/datasets/imsparsh/flowers-dataset
 approches:
 
-alpha background
+# alpha background
 
-binary background
+# binary background
 
-custom background implememntation
+# custom background implememntation
+
+different model architectures :Unet,Deeplab,Maskrcnn
           
