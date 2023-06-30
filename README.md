@@ -4,6 +4,8 @@ https://www.kaggle.com/datasets/imsparsh/flowers-dataset
 approches:
 
 alpha background
+
 binary background
+
 custom background implememntation
           
